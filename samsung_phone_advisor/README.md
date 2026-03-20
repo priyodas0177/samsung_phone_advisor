@@ -41,8 +41,7 @@ http://127.0.0.1:8000
   
 # This is first page if i asked him "compare Samsung Galaxy Z Flip7 and Samsung Galaxy Z Flip7FE" ->
 ![image alt](https://github.com/priyodas0177/samsung_phone_advisor/blob/main/samsung_phone_advisor/screenshot/Screenshot%202026-02-24%20015401.png?raw=true)
-# then show the output here.
-![image alt](https://github.com/priyodas0177/Genuine-Technology-Research-Ltd./blob/main/samsung_phone_advisor/screenshot/Screenshot%202026-02-24%20015401.png)
+
 # again if i asked him "compare Samsung Galaxy F17 and Samsung Galaxy M17"
 ![image alt](https://github.com/priyodas0177/samsung_phone_advisor/blob/main/samsung_phone_advisor/screenshot/Screenshot%202026-02-24%20015434.png?raw=true)
 
